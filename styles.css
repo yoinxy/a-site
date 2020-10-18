@@ -1,0 +1,26 @@
+div {
+  background-color: #a8d8ea;
+  font-family: sans-serif;
+}
+body{
+  text-align: center;
+  margin: 0;
+}
+h1{
+  margin-top: 0;
+}
+.top{
+  background-color: powderblue;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px
+
+}
